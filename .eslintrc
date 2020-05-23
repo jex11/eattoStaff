@@ -1,0 +1,13 @@
+{
+    "extends": "rallycoding",
+    "rules": {
+        "max-len": "off",
+        "eol-last": "off",
+        "arrow-body-style": "off",
+        "no-unused-vars": "warn",
+        "prefer-const": "off",
+        "no-underscore-dangle": "off",
+        "no-else-return": "warn",
+        "no-loop-func": "warn"
+    }
+}
